@@ -2,5 +2,12 @@
     "key": "value of key",
     "look": {
         "deep": "value of look deep"
-    }
+    },
+    "inter": "inter {{value1}} polation",
+    "inter2": "I am {{author.name}}",
+    "male_plural": "{{count}} boyfriends",
+    "female_plural": "{{count}} girlfriends",
+    "male": "{{count}} boyfriend",
+    "female": "{{count}} girlfriend",
+    "array": ["this", "that", "The other"]
 }

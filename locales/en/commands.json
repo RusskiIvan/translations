@@ -1,0 +1,7 @@
+{
+    "help": {
+        "name": "help",
+        "description": "Really? You really need help using the help command? Bruh",
+        "arguments": "None"
+    }
+}

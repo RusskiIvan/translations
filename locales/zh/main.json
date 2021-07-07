@@ -1,6 +1,13 @@
 {
-    "key": "密钥值",
+    "key": "键值",
     "look": {
         "deep": "看深的价值"
-    }
+    },
+    "inter": "间 {{value1}} 人口",
+    "inter2": "我是 {{author.name}}",
+    "male_plural": "{{count}} 男朋友",
+    "female_plural": "{{count}} 女朋友",
+    "male": "{{count}} 男朋友",
+    "female": "{{count}} 女朋友",
+    "array": ["这", "那", "另一个"]
 }
