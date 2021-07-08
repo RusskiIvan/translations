@@ -1,15 +1,13 @@
 {
-    "key": "键值",
-    "look": {
-        "deep": "看深的价值"
-    },
-    "inter": "间 {{value1}} 人口",
-    "inter2": "我是 {{author.name}}",
-    "male_plural": "{{count}} 男朋友",
-    "female_plural": "{{count}} 女朋友",
-    "male": "{{count}} 男朋友",
-    "female": "{{count}} 女朋友",
-    "array": ["这", "那", "另一个"],
-
-    "language.change.confirm": "默认语言设置为"
+    "language.change.confirm": "默认语言设置为",
+    "command": {
+        "disabled": {
+            "title": "此命令暂时禁用",
+            "description": "请耐心等待，并加入 [支持服务器]({{INVITE_OUTAGES}}) 用于更新"
+        },
+        "cooldown": {
+            "title": "您经常使用此命令，请减慢速度",
+            "description": "请等待 {{count}} 秒，然后再使用此命令"
+        }
+    }
 }
