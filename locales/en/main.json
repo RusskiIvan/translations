@@ -9,5 +9,7 @@
     "female_plural": "{{count}} girlfriends",
     "male": "{{count}} boyfriend",
     "female": "{{count}} girlfriend",
-    "array": ["this", "that", "The other"]
+    "array": ["this", "that", "The other"],
+
+    "language.change.confirm": "Default language set to"
 }

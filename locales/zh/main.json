@@ -9,5 +9,7 @@
     "female_plural": "{{count}} 女朋友",
     "male": "{{count}} 男朋友",
     "female": "{{count}} 女朋友",
-    "array": ["这", "那", "另一个"]
+    "array": ["这", "那", "另一个"],
+
+    "language.change.confirm": "默认语言设置为"
 }
