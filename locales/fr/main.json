@@ -1,0 +1,13 @@
+﻿{
+    "language.change.confirm": "Langue par défaut définie sur ",
+    "command": {
+        "disabled": {
+            "title": "Cette commande est actuallement désactivée.",
+            "description": "Soyez patient et rejoignez le serveur [support server]({{INVITE_OUTAGES}}) pour les mises à jour."
+        },
+        "cooldown": {
+            "title": "Vous utilisez cette commande trop souvent, veuillez ralentir...",
+            "description": "Veuillez attendre {{count}} secondes avant d'utiliser à nouveau cette commande."
+        }
+    }
+}
