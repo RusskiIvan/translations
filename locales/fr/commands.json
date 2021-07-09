@@ -1,7 +1,9 @@
 {
     "help": {
-        "name": "aide",
-        "description": "Vous avez vraiment besoin d'aide pour utiliser la commande aide? xD",
-        "arguments": "None"
+        "details": {
+            "name": "aide",
+            "description": "Vous avez vraiment besoin d'aide pour utiliser la commande aide? xD",
+            "arguments": "None"
+        }
     }
 }

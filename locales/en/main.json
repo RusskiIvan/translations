@@ -9,5 +9,9 @@
             "title": "You are using this command too often please slow down",
             "description": "Please wait {{count}} seconds before using this command again"
         }
+    },
+    "powered.by": {
+        "scmm": "Powered by scmm.app",
+        "rustafied": "Read more at Rustafied"
     }
 }

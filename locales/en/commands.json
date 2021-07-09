@@ -1,7 +1,39 @@
 {
     "help": {
-        "name": "help",
-        "description": "Really? You really need help using the help command? Bruh",
-        "arguments": "None"
+        "details": {
+            "name": "help",
+            "description": "Really? You really need help using the help command? Bruh",
+            "arguments": "None"
+        }
+    },
+    "invcost": {
+        "details": {
+            "description": "Displays the total value of your Rust inventory"
+        },
+        "title": "Total inventory value for {{name}}",
+        "desc": "Use {{command1}} to change the server currency\nOr use {{command2}}",
+        "stats": "You own {{count}} items\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
+        "error": {
+            "title": "{{name}} has a private inventory'",
+            "desc": "Make sure your inventory is public\nOr if you don't have any skins buy some on the [Rust community market](https://steamcommunity.com/market/search?appid=252490)"
+        }
+    },
+    "keybind": {
+        "title": "Useful Key binds",
+        "desc": "Replace the `x` with whatever key you want",
+        "kill": "Suicide - 60 second cooldown",
+        "run": "Auto run",
+        "farm": "Auto farm",
+        "mute": "Mute all voices",
+        "auto.f1": "Automatically start combat log when you use the console",
+        "auto.flashlight": "Turn on flashlight/laser when you ADS",
+        "perf": "Graphs for PC info like FPS, ping, RAM etc",
+        "fps": "FPS limiter (-1 for no limit)",
+        "connect": "Connect to servers quicker",
+        "seed": "Find a server seed",
+        "png": "Get a PNG image download of server map",
+        "hitnotify": "Stops projectile invalids (server hit registration)",
+        "gibs": "Removes gibs: when raiding doors disappears instantly",
+        "thirds": "Split stacks into 3rds"
     }
 }
