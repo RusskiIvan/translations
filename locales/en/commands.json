@@ -12,7 +12,8 @@
         },
         "title": "Total inventory value for {{name}}",
         "desc": "Use {{command1}} to change the server currency\nOr use {{command2}}",
-        "stats": "You own {{count}} items\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
+        "stats": "You own {{count}} item\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
+        "stats_plural": "You own {{count}} items\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
         "error": {
             "title": "{{name}} has a private inventory'",
             "desc": "Make sure your inventory is public\nOr if you don't have any skins buy some on the [Rust community market](https://steamcommunity.com/market/search?appid=252490)"
@@ -35,5 +36,13 @@
         "hitnotify": "Stops projectile invalids (server hit registration)",
         "gibs": "Removes gibs: when raiding doors disappears instantly",
         "thirds": "Split stacks into 3rds"
+    },
+    "newskin": {
+        "title": "Checkout the latest Rust skins!",
+        "desc": "Click [here](https://store.steampowered.com/itemstore/252490/browse/?filter=All) to check them out!\nUse {{command1}} or react with 👀 to view them and their price\nUse {{command2}} to get alerted when new skins are released\n\n[Buy](https://store.steampowered.com/itemstore/252490/browse/?filter=All) all {{count}} skins now for a total of {{price}}",
+        "auto": {
+            "off": " New skin releases will no longer automatically send skin names, prices and images",
+            "on": " New skin releases will automatically send skin names, prices and images\nUse {{command1}} to turn automatic skin sending off"
+        }
     }
 }
