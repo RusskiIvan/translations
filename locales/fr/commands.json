@@ -6,4 +6,43 @@
             "arguments": "None"
         }
     }
+	"invcost": {
+        "details": {
+            "description": "Affiche la valeur totale de votre inventaire Rust"
+        },
+        "title": "Valeur totale de l'inventaire pour {{name}}",
+        "desc": "Utilise {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
+        "stats": "Vous possédez {{count}} objet\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
+        "stats_plural": "Vous possédez {{count}} objets\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
+        "error": {
+            "title": "{{name}} a un inventaire privé'",
+            "desc": "Assurez-vous que votre inventaire est public\nou si vous n'en avez pas, achetez-en sur le [marché Steam](https://steamcommunity.com/market/search?appid=252490)"
+        }
+    },
+    "keybind": {
+        "title": "Touches utiles ",
+        "desc": "Remplacer `x` par la lettre que vous voulez",
+        "kill": "Suicide - délai de 60 secondes",
+        "run": "Courir automatiquement",
+        "farm": "Farmer automatiquement",
+        "mute": "Muter toutes les voix",
+        "auto.f1": "Ouvre la console et affiche combatlog",
+        "auto.flashlight": "Allumer la lampe torche/laser lorsque vous visez",
+        "perf": "Affichage des performances (valeur comprise entre 1 et 6)",
+        "fps": "Limiter les FPS (-1 aucune limite)",
+        "connect": "Connectez-vous rapidement aux serveurs",
+        "seed": "Trouver un serveur",
+        "png": "Téléchargez une image PNG de la carte du serveur ",
+        "hitnotify": "Arrête les projectiles invalides (server hit registration)",
+        "gibs": "Supprime les gibs : lorsque les portes de raid disparaissent instantanément ",
+        "thirds": "Divise les stack / 3"
+    },
+    "newskin": {
+        "title": "Découvrez les derniers skins Rust!",
+        "desc": "Cliquez [içi](https://store.steampowered.com/itemstore/252490/browse/?filter=All) pour les découvrir!\nUtilisez {{command1}} ou réagissez avec 👀 pour les voirs avec le prix\nUtilisez {{command2}} pour être avertis lorsque des nouveaux skins seront publiés\n\n[Acheter](https://store.steampowered.com/itemstore/252490/browse/?filter=All) les {{count}} nouveaux skins Rust pour un total de {{price}}",
+        "auto": {
+            "off": " Les nouveaux skin n'enverront plus automatiquement les noms, les prix et les images des skins ",
+            "on": " Les nouveaux skin enverront automatiquement les noms, les prix et les images des skins\nUtilisez {{command1}} pour désactiver l'envoi automatique des skins"
+        }
+    }
 }

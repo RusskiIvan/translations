@@ -9,5 +9,9 @@
             "title": "Vous utilisez cette commande trop souvent, veuillez ralentir...",
             "description": "Veuillez attendre {{count}} secondes avant d'utiliser à nouveau cette commande."
         }
+    },
+    "powered.by": {
+        "scmm": "Créé par scmm.app",
+        "rustafied": "Lire la suite sur Rustafied"
     }
 }
