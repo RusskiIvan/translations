@@ -1,3 +1,24 @@
 {
-    "assaultrifle": "test"
+    "statistics": {
+        "Damage": "Damage",
+        "Aim Cone": "Aim Cone",
+        "Hip Aim Cone": "Hip Aim Cone",
+        "Velocity": "Velocity",
+        "Recoil": "Recoil",
+        "Aim Sway": "Aim Sway"
+    },
+    "detailed": {
+        "Loot": "Loot",
+        "Craft ": "Craft",
+        "Blueprint": "Blueprint",
+        "Repair": "Repair",
+        "Recycle": "Recycle",
+        "Mod for": "Mod for",
+        "Stats": "Stats"
+    },
+    "Stack size": "Stack size",
+    "Despawn time": "Despawn time",
+    "Category": "Category",
+    "Short name": "Short name",
+    "Rust identifier": "Rust identifier"
 }
