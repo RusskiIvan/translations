@@ -61,11 +61,10 @@ If your locale language translates `you` or `your` to a specific gender, then pl
 
 | Language   | Completed |
 |------------|-----------|
-| English    | 0/0       |
-| Russian    | 0/0       |
-| Spanish    | 0/0       |
-| Turkish    | 0/0       |
-| Portuguese | 0/0       |
-| German     | 0/0       |
-| French     | 0/0       |
-| Chinese    | 0/0       |
+| English    | ❌       |
+| Russian    | ❌       |
+| Spanish    | ❌       |
+| Turkish    | ❌       |
+| Portuguese | ❌       |
+| French     | ❌       |
+| Chinese    | ❌       |
