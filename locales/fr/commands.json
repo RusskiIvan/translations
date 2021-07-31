@@ -30,10 +30,10 @@
         "auto.flashlight": "Allumer la lampe torche/laser lorsque vous visez",
         "perf": "Affichage des performances (valeur comprise entre 1 et 6)",
         "fps": "Limiter les FPS (-1 aucune limite)",
-        "connect": "Connectez-vous rapidement aux serveurs",
-        "seed": "Trouver un serveur",
+        "connect": "Rejoindre un serveur",
+        "seed": "Trouver le seed d'un serveur",
         "png": "Téléchargez une image PNG de la carte du serveur ",
-        "hitnotify": "Arrête les projectiles invalides (server hit registration)",
+        "hitnotify": "N'affiche plus les projectiles invalides",
         "gibs": "Supprime les gibs : lorsque les portes de raid disparaissent instantanément ",
         "thirds": "Divise les stack / 3"
     },
