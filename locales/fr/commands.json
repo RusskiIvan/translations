@@ -14,9 +14,15 @@
         "desc": "Utilise {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
         "stats": "Vous possédez {{count}} objet\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
         "stats_plural": "Vous possédez {{count}} objets\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
-        "error": {
-            "title": "{{name}} a un inventaire privé'",
-            "desc": "Assurez-vous que votre inventaire est public\nou si vous n'en avez pas, achetez-en sur le [marché Steam](https://steamcommunity.com/market/search?appid=252490)"
+		"error": {
+            "private": {
+                "title": "{{name}} a un inventaire privé",
+                "desc": "Assurez-vous que votre inventaire soit public\nou si vous n'avez pas d'items, vous pouvez en acheter sur le [marché Steam](https://steamcommunity.com/market/search?appid=252490)"
+            },
+            "outage": {
+                "title": "Nous avons rencontré des problèmes lors de la récupération de votre inventaire !",
+                "desc": "Cela est probablement dû à une panne temporaire. Veuillez re-essayez ultérieurement..."
+            }
         }
     },
     "keybind": {

@@ -13,5 +13,9 @@
     "powered.by": {
         "scmm": "Créé par scmm.app",
         "rustafied": "Lire la suite sur Rustafied"
-    }
+    },
+    "loading": {
+        "data": "Veuillez patienter pendant que nous récupérons vos données..."
+    },
+    "quantity": "quantitée"
 }
