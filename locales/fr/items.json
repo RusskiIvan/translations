@@ -5,11 +5,11 @@
         "Hip Aim Cone": "Hip Aim Cone",
         "Velocity": "Vélocité",
         "Recoil": "Recul",
-        "Aim Sway": "Aim Sway"
+        "Aim Sway": "Balancement de l'arme"
     },
     "detailed": {
         "Loot": "Butin",
-        "Craft ": "Craft",
+        "Craft ": "Préparer",
         "Blueprint": "Plan",
         "Repair": "Réparer",
         "Recycle": "Recycler",
