@@ -22,7 +22,8 @@
             },
             "outage": {
                 "title": "We had some problems fetching your inventory",
-                "desc": "This is likely due to a temporary outage. Come back later to try again"
+                "desc.likely": "This is likely due to a temporary outage. Come back later to try again",
+                "desc.definitely": "This is due to a temporary outage. Come back later to try again"
             }
         }
     },
@@ -44,7 +45,7 @@
         "gibs": "Removes gibs: when raiding doors disappears instantly",
         "thirds": "Split stacks into 3rds",
         "craft": "Bind a key to craft an item. Find itemID with `;item` command",
-        "craft.desc": "Crafts 3 bandages"
+        "craftdesc": "Crafts 3 bandages"
     },
     "newskin": {
         "title": "Checkout the latest Rust skins!",
