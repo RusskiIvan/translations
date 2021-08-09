@@ -21,7 +21,8 @@
             },
             "outage": {
                 "title": "Nous avons rencontré des problèmes lors de la récupération de votre inventaire !",
-                "desc": "Cela est probablement dû à une panne temporaire. Veuillez re-essayez ultérieurement..."
+				"desc.likely": "Cela est probablement dû à une panne temporaire. Veuillez re-essayez ultérieurement...",
+                "desc.definitely": "Cela est dû à une panne temporaire. Veuillez re-essayez ultérieurement... "
             }
         }
     },
@@ -41,7 +42,9 @@
         "png": "Téléchargez une image PNG de la carte du serveur ",
         "hitnotify": "N'affiche plus les projectiles invalides",
         "gibs": "Supprime les gibs : lorsque les portes de raid disparaissent instantanément ",
-        "thirds": "Divise les stack / 3"
+        "thirds": "Divise les stack / 3",
+		"craft": "Crafter rapidement à l'aide d'une touche. Pour obtenir les ID's, utilisez la commande `;item`,
+        "craftdesc": "Crafter 3 bandages"
     },
     "newskin": {
         "title": "Découvrez les derniers skins Rust!",
