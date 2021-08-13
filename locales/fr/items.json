@@ -1,3 +1,24 @@
 {
-    "assaultrifle": "test"
+    "statistics": {
+        "Damage": "Dégâts",
+        "Aim Cone": "Holosight",
+        "Hip Aim Cone": "Hip Aim Cone",
+        "Velocity": "Vélocité",
+        "Recoil": "Recul",
+        "Aim Sway": "Balancement de l'arme"
+    },
+    "detailed": {
+        "Loot": "Butin",
+        "Craft ": "Préparer",
+        "Blueprint": "Plan",
+        "Repair": "Réparer",
+        "Recycle": "Recycler",
+        "Mod for": "Mod pour ",
+        "Stats": "Statistiques"
+    },
+    "Stack size": "Taille de la pile",
+    "Despawn time": "Temps de réapparition",
+    "Category": "Catégorie",
+    "Short name": "Nom court",
+    "Rust identifier": "Identifiant Rust"
 }
