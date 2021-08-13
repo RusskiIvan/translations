@@ -5,7 +5,7 @@
             "description": "Vous avez vraiment besoin d'aide pour utiliser la commande aide? xD",
             "arguments": "None"
         }
-    }
+    },
 	"invcost": {
         "details": {
             "description": "Affiche la valeur totale de votre inventaire Rust"
@@ -43,7 +43,7 @@
         "hitnotify": "N'affiche plus les projectiles invalides",
         "gibs": "Supprime les gibs : lorsque les portes de raid disparaissent instantanément ",
         "thirds": "Divise les stack / 3",
-		"craft": "Crafter rapidement à l'aide d'une touche. Pour obtenir les ID's, utilisez la commande `;item`,
+		"craft": "Crafter rapidement à l'aide d'une touche. Pour obtenir les ID's, utilisez la commande `;item`",
         "craftdesc": "Crafter 3 bandages"
     },
     "newskin": {
