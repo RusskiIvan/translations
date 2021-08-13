@@ -1,6 +1,6 @@
 {
     "APIerror": {
         "title": "❌ Une erreur s'est produited ❌",
-        "desc": "Code d'erreur: `{{error_code}}`\nVeuillez communiquer avec Ortovox#9235\n\n**signaler un **[**bogue**]({{INVITE_BUGREPORT}})"
+        "desc": "Code d'erreur: `{{error_code}}`\nVeuillez communiquer avec Ortovox#9235\n\n**signaler un **[**bogue**]({{- INVITE_BUGREPORT}})"
     }
 }

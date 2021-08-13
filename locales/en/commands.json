@@ -54,5 +54,13 @@
             "off": " New skin releases will no longer automatically send skin names, prices and images",
             "on": " New skin releases will automatically send skin names, prices and images\n\nUse {{command1}} to turn automatic skin sending off"
         }
+    },
+    "raid": {
+        "cannot.destroy": "You cannot destroy that item",
+        "hardside": "hard",
+        "softside": "soft",
+        "title": "Destroying {{count}} {{title}} with {{destroyType}}",
+        "title_plural": "Destroying {{count}} {{title}}s with {{destroyType}}",
+        "description": "🖱️ Hover over the boxes to see ⏱️ time taken"
     }
 }

@@ -12,7 +12,8 @@
     },
     "powered.by": {
         "scmm": "Powered by scmm.app",
-        "rustafied": "Read more at Rustafied"
+        "rustafied": "Read more at Rustafied",
+        "rustlabs": "Read more at RustLabs"
     },
     "loading": {
         "data": "Hang on whilst we fetch your data..."
