@@ -18,7 +18,7 @@
         "error": {
             "private": {
                 "title": "{{name}} possui um inventário privado",
-                "desc": "Altere as configurações de privacidade do seu inventário para **público**\n\nVerifique que você possui alguma [skin de Rust](https://steamcommunity.com/market/search?appid=252490)"
+                "desc": "Altere as configurações de privacidade do seu inventário para **público**\n\nVerifique se você possui alguma [skin de Rust](https://steamcommunity.com/market/search?appid=252490)"
             },
             "outage": {
                 "title": "Encontramos problemas ao buscar seu inventário",
