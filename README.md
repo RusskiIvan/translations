@@ -11,7 +11,7 @@ All translation talk happens on the [Rusty Helper Discord server](https://discor
 ## How to help translate
 
 1. Make sure you have a github account
-2. Clone the github repository
+2. Clone the github repository (or press the dot "." key to use the [vs code web editor](https://github.dev/Rusty-Helper/translations))
 3. Make all of your translations
 4. Create a pull request
 
