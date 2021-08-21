@@ -1,0 +1,22 @@
+{
+    "language.change.confirm": "Idioma padrão definido para",
+    "command": {
+        "disabled": {
+            "title": "Este comando está temporariamente desativado",
+            "description": "Por favor seja paciente e entre no [servidor de suporte]({{INVITE_OUTAGES}}) para atualizações"
+        },
+        "cooldown": {
+            "title": "Você está usando este comando com muita frequência, por favor espere um pouco",
+            "description": "Por favor aguarde {{count}} segundos antes de usar este comando novamente"
+        }
+    },
+    "powered.by": {
+        "scmm": "Provido por scmm.app",
+        "rustafied": "Leia mais em Rustafied",
+        "rustlabs": "Leia mais em RustLabs"
+    },
+    "loading": {
+        "data": "Aguarde enquanto buscamos seus dados..."
+    },
+    "quantity": "quantidade"
+}

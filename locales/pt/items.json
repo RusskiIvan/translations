@@ -1,0 +1,24 @@
+{
+    "statistics": {
+        "Damage": "Dano",
+        "Aim Cone": "Cone de Mira",
+        "Hip Aim Cone": "Cone de Mira do Quadril",
+        "Velocity": "Velocidade",
+        "Recoil": "Recuo",
+        "Aim Sway": "Balanço da Mira"
+    },
+    "detailed": {
+        "Loot": "Loot",
+        "Craft ": "Craftar",
+        "Blueprint": "Diagrama",
+        "Repair": "Reparar",
+        "Recycle": "Reciclar",
+        "Mod for": "Mod para",
+        "Stats": "Estatísticas"
+    },
+    "Stack size": "Tamanho da pilha",
+    "Despawn time": "Tempo de desaparecimento",
+    "Category": "Categoria",
+    "Short name": "Nome curto",
+    "Rust identifier": "Identificador do Rust"
+}

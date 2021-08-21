@@ -1,0 +1,66 @@
+{
+    "help": {
+        "details": {
+            "name": "ajuda",
+            "description": "Sério? Você realmente precisa de ajuda com o comando de ajuda? Mano kkkk",
+            "arguments": "Nenhum"
+        }
+    },
+    "invcost": {
+        "details": {
+            "description": "Mostra o valor total do seu inventário de Rust"
+        },
+        "total": "Total",
+        "title": "Valor total do inventário de {{name}}",
+        "desc": "Use {{command1}} para alterar a moeda do servidor\nOu use {{command2}}",
+        "stats": "{{count}} item possuído\nCusto total {{total_cost}}\nMovimento de hoje {{daily_movement}}",
+        "stats_plural": "{{count}} itens possuídos\nCusto total {{total_cost}}\nMovimento de hoje {{daily_movement}}",
+        "error": {
+            "private": {
+                "title": "{{name}} possui um inventário privado",
+                "desc": "Altere as configurações de privacidade do seu inventário para **público**\n\nVerifique que você possui alguma [skin de Rust](https://steamcommunity.com/market/search?appid=252490)"
+            },
+            "outage": {
+                "title": "Encontramos problemas ao buscar seu inventário",
+                "desc.likely": "Isso pode ter sido causado por uma interrupção temporária. Tente novamente depois",
+                "desc.definitely": "Isso foi causado por uma interrupção temporária. Tente novamente depois"
+            }
+        }
+    },
+    "keybind": {
+        "title": "Atalhos de tecla úteis",
+        "desc": "Troque o `x` com o que preferir",
+        "kill": "Suicídio - cooldown de 60 segundos",
+        "run": "Correr automaticamente",
+        "farm": "Farmar automaticamente",
+        "mute": "Silenciar todas as vozes",
+        "auto.f1": "Consultar o combatlog automaticamente ao abrir o console",
+        "auto.flashlight": "Ligar a lanterna/laser ao mirar",
+        "perf": "Gráficos informativos para FPS, ping, RAM etc",
+        "fps": "Limitador de FPS (-1 para nenhum limite)",
+        "connect": "Conecte-se a servidores mais rapidamente",
+        "seed": "Encontre a seed to servidor",
+        "png": "Baixar a imagem do mapa do servidor",
+        "hitnotify": "Desative projéteis inválidos (registração de acerto do servidor)",
+        "gibs": "Remove gibs: ao raidar as portas desaparecem instantaneamente",
+        "thirds": "Separar pilhas em terços",
+        "craft": "Bindar uma tecla para craftar um item. Encontre o ID do item com o comando `;item`",
+        "craftdesc": "Craftar 3 bandagens"
+    },
+    "newskin": {
+        "title": "Confira as ultimas skins de Rust!",
+        "desc": "Clique [aqui](https://store.steampowered.com/itemstore/252490/browse/?filter=All) para conferi-las!\nUse {{command1}} ou reaja co 👀 para vê-las com seus preços\nUse {{command2}} para receber um alerta quando novas skins forem lançadas\n\n[Compre](https://store.steampowered.com/itemstore/252490/browse/?filter=All) todas as {{count}} skins agora por um total de {{price}}",
+        "auto": {
+            "off": " Novos lançamentos de skins não irão mais enviar nomes, preços e imagens de novas skins automaticamente",
+            "on": " Novos lançamentos de skins irão automaticamente enviar nomes, preços e imagens\n\nUse {{command1}} para desativar o envio automático"
+        }
+    },
+    "raid": {
+        "cannot.destroy": "Você não pode destruir este item",
+        "hardside": "duro",
+        "softside": "macio",
+        "title": "Destruindo {{count}} {{title}} com {{destroyType}}",
+        "title_plural": "Destruindo {{count}} {{title}}s com {{destroyType}}",
+        "description": "🖱️ Passe o mouse sobre as caixas para ver ⏱️ tempo levado"
+    }
+}
