@@ -13,8 +13,8 @@
         "total": "Total",
         "title": "Total inventory value for {{name}}",
         "desc": "Use {{command1}} to change the server currency\nOr use {{command2}}",
-        "stats": "You own {{count}} item\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
-        "stats_plural": "You own {{count}} items\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
+        "stats": "{{count}} item owned\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
+        "stats_plural": "{{count}} items owned\nTotal cost {{total_cost}}\nToday's movement {{daily_movement}}",
         "error": {
             "private": {
                 "title": "{{name}} has a private inventory",
