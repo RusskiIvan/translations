@@ -52,7 +52,8 @@
         "auto": {
             "off": " Les nouveaux skin n'enverront plus automatiquement les noms, les prix et les images des skins ",
             "on": " Les nouveaux skin enverront automatiquement les noms, les prix et les images des skins\nUtilisez {{command1}} pour désactiver l'envoi automatique des skins"
-        },
+        }
+    },
     "raid": {
         "cannot.destroy": "Vous ne pouvez pas détruire cet objet",
         "hardside": "difficile",
@@ -60,6 +61,5 @@
         "title": "Détruis {{count}} {{title}} avec {{destroyType}}",
         "title_plural": "Destroying {{count}} {{title}}s avec {{destroyType}}",
         "description": "🖱️ Survolez les caisses pour voir le temps écoulé ⏱️"
-    }
     }
 }
