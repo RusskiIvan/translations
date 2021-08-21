@@ -28,9 +28,9 @@
         }
     },
     "keybind": {
-        "title": "Atalhos de tecla úteis",
+        "title": "Combinações de teclas úteis",
         "desc": "Troque o `x` com o que preferir",
-        "kill": "Suicídio - cooldown de 60 segundos",
+        "kill": "Suicídio - tempo de espera de 60 segundos",
         "run": "Correr automaticamente",
         "farm": "Farmar automaticamente",
         "mute": "Silenciar todas as vozes",
@@ -39,17 +39,17 @@
         "perf": "Gráficos informativos para FPS, ping, RAM etc",
         "fps": "Limitador de FPS (-1 para nenhum limite)",
         "connect": "Conecte-se a servidores mais rapidamente",
-        "seed": "Encontre a seed to servidor",
+        "seed": "Obter a seed to servidor",
         "png": "Baixar a imagem do mapa do servidor",
         "hitnotify": "Desative projéteis inválidos (registração de acerto do servidor)",
-        "gibs": "Remove gibs: ao raidar as portas desaparecem instantaneamente",
+        "gibs": "Remover gibs: ao raidar as portas desaparecem instantaneamente",
         "thirds": "Separar pilhas em terços",
-        "craft": "Bindar uma tecla para craftar um item. Encontre o ID do item com o comando `;item`",
+        "craft": "Configurar uma tecla para craftar um item. Encontre o ID do item com o comando `;item`",
         "craftdesc": "Craftar 3 bandagens"
     },
     "newskin": {
-        "title": "Confira as ultimas skins de Rust!",
-        "desc": "Clique [aqui](https://store.steampowered.com/itemstore/252490/browse/?filter=All) para conferi-las!\nUse {{command1}} ou reaja co 👀 para vê-las com seus preços\nUse {{command2}} para receber um alerta quando novas skins forem lançadas\n\n[Compre](https://store.steampowered.com/itemstore/252490/browse/?filter=All) todas as {{count}} skins agora por um total de {{price}}",
+        "title": "Confira as últimas skins de Rust!",
+        "desc": "Clique [aqui](https://store.steampowered.com/itemstore/252490/browse/?filter=All) para conferi-las!\nUse {{command1}} ou reaja com 👀 para vê-las com seus preços\nUse {{command2}} para receber um alerta quando novas skins forem lançadas\n\n[Compre](https://store.steampowered.com/itemstore/252490/browse/?filter=All) todas as {{count}} skins agora por um total de {{price}}",
         "auto": {
             "off": " Novos lançamentos de skins não irão mais enviar nomes, preços e imagens de novas skins automaticamente",
             "on": " Novos lançamentos de skins irão automaticamente enviar nomes, preços e imagens\n\nUse {{command1}} para desativar o envio automático"

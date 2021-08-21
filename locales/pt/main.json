@@ -3,7 +3,7 @@
     "command": {
         "disabled": {
             "title": "Este comando está temporariamente desativado",
-            "description": "Por favor seja paciente e entre no [servidor de suporte]({{INVITE_OUTAGES}}) para atualizações"
+            "description": "Por favor seja paciente e entre no [servidor de suporte]({{INVITE_OUTAGES}}) para receber atualizações"
         },
         "cooldown": {
             "title": "Você está usando este comando com muita frequência, por favor espere um pouco",
