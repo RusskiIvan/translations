@@ -13,15 +13,11 @@
         "total": "Total",
         "title": "Total inventory value for {{name}}",
         "desc": "Use {{command1}} to change the server currency\nOr use {{command2}}",
-        "stats": "{{count}} item owned\nTotal cost {{total_cost}}\n{{daily_movement}} in last {{time_period}} hours",
-        "stats_plural": "{{count}} items owned\nTotal cost {{total_cost}}\n{{daily_movement}}",
-
-        "stat": "$t(items, {\"count\": {{items}} })\nTotal cost {{total_cost}}\n$t(items, {\"count\": {{hours}} })",
+        "stat": "$t(invcost.items, {\"count\": {{items}} })\nTotal cost {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
         "items": "{{count}} item owned",
         "items_plural": "{{count}} items owned",
         "hours": "{{daily_movement}} in last hour",
         "hours_plural": "{{daily_movement}} in last {{count}} hours",
-
         "error": {
             "private": {
                 "title": "{{name}} has a private inventory",

@@ -45,12 +45,12 @@ Some messages may contain special formatting characters, such as `**` and `__` o
 
 #### English ( en )
 ```
-__Hello **{{name}}**__, how are you [today](https://google.com)?
+__Hello **{{name}}**__, how are you [today](https://google.com)? $t(nesting.example, {\"count\": {{nested}} })
 ```
 
 #### German ( de )
 ```
-__Hallo **{{name}}**__, wie geht es dir [heute](https://google.com)?
+__Hallo **{{name}}**__, wie geht es dir [heute](https://google.com)? $t(nesting.example, {\"count\": {{nested}} })
 ```
 
 ### Gender
