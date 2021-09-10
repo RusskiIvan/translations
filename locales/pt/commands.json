@@ -13,11 +13,11 @@
         "total": "Total",
         "title": "Valor total do inventário de {{name}}",
         "desc": "Use {{command1}} para alterar a moeda do servidor\nOu use {{command2}}",
-        "stat": "$t(invcost.items, {\"count\": {{items}} })\nTotal cost {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
-        "items": "{{count}} item owned",
-        "items_plural": "{{count}} items owned",
-        "hours": "{{daily_movement}} in last hour",
-        "hours_plural": "{{daily_movement}} in last {{count}} hours",
+        "stat": "$t(invcost.items, {\"count\": {{items}} })\nCusto total {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
+        "items": "{{count}} item possuído",
+        "items_plural": "{{count}} itens possuídos",
+        "hours": "{{daily_movement}} na última hora",
+        "hours_plural": "{{daily_movement}} nas últimas {{count}} horas",
         "error": {
             "private": {
                 "title": "{{name}} possui um inventário privado",
