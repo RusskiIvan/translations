@@ -10,6 +10,7 @@
         "details": {
             "description": "Affiche la valeur totale de votre inventaire Rust"
         },
+        "total": "Total",
         "title": "Valeur totale de l'inventaire pour {{name}}",
         "desc": "Utilisez la commande {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
         "stat": "$t(invcost.items, {\"count\": {{items}} })\nCoût total {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
