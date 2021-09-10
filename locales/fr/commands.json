@@ -5,20 +5,20 @@
             "description": "Vous avez vraiment besoin d'aide pour utiliser la commande aide? xD",
             "arguments": "None"
         }
-    }
-	"invcost": {
+    },
+	  "invcost": {
         "details": {
             "description": "Affiche la valeur totale de votre inventaire Rust"
         },
         "title": "Valeur totale de l'inventaire pour {{name}}",
+
         "desc": "Utilisez la commande {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
         "stat": "$t(invcost.items, {\"count\": {{items}} })\nCoût total {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
         "items": "{{count}} objet possédé",
         "items_plural": "{{count}} objets possédés",
         "hours": "{{daily_movement}} dans la dernière heure",
         "hours_plural": "{{daily_movement}} au cours des {{count}} dernières heures",
-		
-        "stats_plural": "Vous possédez {{count}} objets\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
+    },
 		"error": {
             "private": {
                 "title": "{{name}} a un inventaire privé",
@@ -48,7 +48,7 @@
         "hitnotify": "N'affiche plus les projectiles invalides",
         "gibs": "Supprime les gibs : lorsque les portes de raid disparaissent instantanément ",
         "thirds": "Divise les stack / 3",
-		"craft": "Crafter rapidement à l'aide d'une touche. Pour obtenir les ID's, utilisez la commande `;item`,
+		"craft": "Crafter rapidement à l'aide d'une touche. Pour obtenir les ID's, utilisez la commande `;item`",
         "craftdesc": "Crafter 3 bandages"
     },
     "newskin": {
@@ -57,7 +57,8 @@
         "auto": {
             "off": " Les nouveaux skin n'enverront plus automatiquement les noms, les prix et les images des skins ",
             "on": " Les nouveaux skin enverront automatiquement les noms, les prix et les images des skins\nUtilisez {{command1}} pour désactiver l'envoi automatique des skins"
-        },
+        }
+    },
     "raid": {
         "cannot.destroy": "Vous ne pouvez pas détruire cet objet",
         "hardside": "difficile",
@@ -65,6 +66,5 @@
         "title": "Détruis {{count}} {{title}} avec {{destroyType}}",
         "title_plural": "Destroying {{count}} {{title}}s avec {{destroyType}}",
         "description": "🖱️ Survolez les caisses pour voir le temps écoulé ⏱️"
-    }
     }
 }

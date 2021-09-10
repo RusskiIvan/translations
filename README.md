@@ -11,7 +11,7 @@ All translation talk happens on the [Rusty Helper Discord server](https://discor
 ## How to help translate
 
 1. Make sure you have a github account
-2. Clone the github repository
+2. Clone the github repository (or press the dot "." key to use the [vs code web editor](https://github.dev/Rusty-Helper/translations))
 3. Make all of your translations
 4. Create a pull request
 
@@ -45,12 +45,12 @@ Some messages may contain special formatting characters, such as `**` and `__` o
 
 #### English ( en )
 ```
-__Hello **{{name}}**__, how are you [today](https://google.com)?
+__Hello **{{name}}**__, how are you [today](https://google.com)? $t(nesting.example, {\"count\": {{nested}} })
 ```
 
 #### German ( de )
 ```
-__Hallo **{{name}}**__, wie geht es dir [heute](https://google.com)?
+__Hallo **{{name}}**__, wie geht es dir [heute](https://google.com)? $t(nesting.example, {\"count\": {{nested}} })
 ```
 
 ### Gender
