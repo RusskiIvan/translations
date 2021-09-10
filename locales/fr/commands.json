@@ -11,8 +11,13 @@
             "description": "Affiche la valeur totale de votre inventaire Rust"
         },
         "title": "Valeur totale de l'inventaire pour {{name}}",
-        "desc": "Utilise {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
-        "stats": "Vous possédez {{count}} objet\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
+        "desc": "Utilisez la commande {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
+        "stat": "$t(invcost.items, {\"count\": {{items}} })\nCoût total {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
+        "items": "{{count}} objet possédé",
+        "items_plural": "{{count}} objets possédés",
+        "hours": "{{daily_movement}} dans la dernière heure",
+        "hours_plural": "{{daily_movement}} au cours des {{count}} dernières heures",
+		
         "stats_plural": "Vous possédez {{count}} objets\nCoût total {{total_cost}}\nStat journalière {{daily_movement}}",
 		"error": {
             "private": {
