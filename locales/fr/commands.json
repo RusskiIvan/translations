@@ -6,17 +6,19 @@
             "arguments": "None"
         }
     },
-	"invcost": {
+	  "invcost": {
         "details": {
             "description": "Affiche la valeur totale de votre inventaire Rust"
         },
         "title": "Valeur totale de l'inventaire pour {{name}}",
-        "desc": "Utilise {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
-        "stat": "$t(invcost.items, {\"count\": {{items}} })\nTotal cost {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
-        "items": "{{count}} item owned",
-        "items_plural": "{{count}} items owned",
-        "hours": "{{daily_movement}} in last hour",
-        "hours_plural": "{{daily_movement}} in last {{count}} hours",
+
+        "desc": "Utilisez la commande {{command1}} pour changer la devise du serveur\nou utilisez {{command2}}",
+        "stat": "$t(invcost.items, {\"count\": {{items}} })\nCoût total {{total_cost}}\n$t(invcost.hours, {\"count\": {{hours}} })",
+        "items": "{{count}} objet possédé",
+        "items_plural": "{{count}} objets possédés",
+        "hours": "{{daily_movement}} dans la dernière heure",
+        "hours_plural": "{{daily_movement}} au cours des {{count}} dernières heures",
+    },
 		"error": {
             "private": {
                 "title": "{{name}} a un inventaire privé",
