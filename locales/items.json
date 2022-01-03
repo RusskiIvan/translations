@@ -1,0 +1,24 @@
+{
+    "statistics": {
+        "Damage": "Урон",
+        "Aim Cone": "Угол отдачи",
+        "Hip Aim Cone": "Угол отдачи от бедра",
+        "Velocity": "Скорость",
+        "Recoil": "Отдача",
+        "Aim Sway": "Aim Sway"
+    },
+    "detailed": {
+        "Loot": "Где найти?",
+        "Craft ": "Как скрафтить?",
+        "Blueprint": "Пути изучения",
+        "Repair": "Ремонт",
+        "Recycle": "Переработка",
+        "Mod for": "Обвесы",
+        "Stats": "Общее"
+    },
+    "Stack size": "Стаки по",
+    "Despawn time": "Время деспавна",
+    "Category": "Категория",
+    "Short name": "Short name",
+    "Rust identifier": "itemID"
+}
