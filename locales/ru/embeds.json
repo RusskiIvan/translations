@@ -1,0 +1,6 @@
+{
+    "APIerror": {
+        "title": "❌ Произошла ошибка ❌",
+        "desc": "Код ошибки: `{{error_code}}`\nСвяжитесь с пользователем Ortovox#9235\n\n**Report a **[**bug**]({{- INVITE_BUGREPORT}})"
+    }
+}
